@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Base Datos</string>
+    <string name="codigo_hint">Ingrese el código</string>
+    <string name="descripcion_hint">Ingrese la descripción</string>
+    <string name="precio_hint">Ingrese el precio</string>
+    <string name="btn_alta">Alta de articulo</string>
+    <string name="btn_baja">Baja de articulo</string>
+    <string name="btn_buscar_codigo">Buscar por código</string>
+    <string name="btn_buscar_descripcion">Buscar por descripción</string>
+    <string name="btn_actualizar">Actualizar articulo</string>
+</resources>
